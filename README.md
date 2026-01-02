@@ -1,4 +1,4 @@
-# MOTW Bypass & LNK Abuse — Educational Security Lab
+# MOTW Bypass & LNK Abuse
 
 > ⚠️ **Disclaimer**
 > This repository is intended **strictly for educational, defensive, and research purposes**.
